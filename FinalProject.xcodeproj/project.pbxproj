@@ -13,8 +13,6 @@
 		98813E0221B9CA5E00FFD513 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98813E0121B9CA5E00FFD513 /* Assets.xcassets */; };
 		98813E0521B9CA5E00FFD513 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98813E0321B9CA5E00FFD513 /* LaunchScreen.storyboard */; };
 		98813E1021B9CA5E00FFD513 /* FinalProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98813E0F21B9CA5E00FFD513 /* FinalProjectTests.swift */; };
-		98813E1B21B9CFC200FFD513 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 98813E1A21B9CFC200FFD513 /* README.md */; };
-		98813E1D21B9CFC700FFD513 /* UI.png in Resources */ = {isa = PBXBuildFile; fileRef = 98813E1C21B9CFC700FFD513 /* UI.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,8 +36,6 @@
 		98813E0B21B9CA5E00FFD513 /* FinalProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98813E0F21B9CA5E00FFD513 /* FinalProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectTests.swift; sourceTree = "<group>"; };
 		98813E1121B9CA5E00FFD513 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		98813E1A21B9CFC200FFD513 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../../Desktop/CSC690_LiwangGao_FinalProject/README.md; sourceTree = "<group>"; };
-		98813E1C21B9CFC700FFD513 /* UI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UI.png; path = ../../../../Desktop/CSC690_LiwangGao_FinalProject/UI.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,8 +77,6 @@
 		98813DF921B9CA5C00FFD513 /* FinalProject */ = {
 			isa = PBXGroup;
 			children = (
-				98813E1C21B9CFC700FFD513 /* UI.png */,
-				98813E1A21B9CFC200FFD513 /* README.md */,
 				98813DFA21B9CA5C00FFD513 /* AppDelegate.swift */,
 				98813DFC21B9CA5C00FFD513 /* ViewController.swift */,
 				98813DFE21B9CA5C00FFD513 /* Main.storyboard */,
@@ -183,10 +177,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98813E1D21B9CFC700FFD513 /* UI.png in Resources */,
 				98813E0521B9CA5E00FFD513 /* LaunchScreen.storyboard in Resources */,
 				98813E0221B9CA5E00FFD513 /* Assets.xcassets in Resources */,
-				98813E1B21B9CFC200FFD513 /* README.md in Resources */,
 				98813E0021B9CA5C00FFD513 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
